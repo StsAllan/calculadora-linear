@@ -5,7 +5,7 @@ Este projeto foi desenvolvido como parte da matéria de **Estruturas Matemática
 
 ## **Aplicação feita por:**
 - Allan dos Santos
--Álvaro Wiggers Júnior
+- Álvaro Wiggers Júnior
 
 ## **Conceito do Projeto**
 
