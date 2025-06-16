@@ -3,6 +3,10 @@
 
 Este projeto foi desenvolvido como parte da matéria de **Estruturas Matemáticas** da **Faculdade UNISUL - Pedra Branca**, com o objetivo de criar uma **calculadora** que resolve **equações lineares**.
 
+## **Aplicação feita por:**
+- Allan dos Santos
+-Álvaro Wiggers Júnior
+
 ## **Conceito do Projeto**
 
 A **Calculadora Linear** foi criada para fornecer uma ferramenta interativa e prática para a resolução de equações lineares. A aplicação permite que o usuário insira equações matemáticas e obtenha soluções com explicações detalhadas de cada etapa do cálculo.
