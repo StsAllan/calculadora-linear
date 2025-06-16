@@ -1,5 +1,5 @@
 
-# **Calculadora Linear - UNISUL Pedra Branca**
+# **Calculadora Linear**
 
 Este projeto foi desenvolvido como parte da matéria de **Estruturas Matemáticas** da **Faculdade UNISUL - Pedra Branca**, com o objetivo de criar uma **calculadora** que resolve **equações lineares**.
 
